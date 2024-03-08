@@ -1,3 +1,5 @@
+Personal learning purpose
+
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 
 [![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/main.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/main)
